@@ -1,4 +1,4 @@
-# Data-Cleaning-and-Preprocessing-CompFest-
+# Data Cleaning and Preprocessing
 
 This repo supports the material of 'Data Cleaning' session in Data Science Academy COMPFEST 15 2023, where you can find the presentation material, notebooks, and data.
 
